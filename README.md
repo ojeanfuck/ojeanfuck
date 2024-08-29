@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jean Carlos Fuck</h1>
+![Header image](https://raw.githubusercontent.com/ojeanfuck/ojeanfuck/master/Assets/header-profile.png)
 <h3 align="center">A passionate FullStack Engineer who loves to learn about new things. Connect with me on LinkedIn</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ojeanfuck/)](https://www.linkedin.com/in/ojeanfuck/)
